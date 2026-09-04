@@ -1,4 +1,4 @@
-## Hi there 👋
+## Holis 
 
 <!--
 **CostanzaArana/CostanzaArana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Programo por diversión.
+Si tengo un problema, lo mas probable es que haga un programita para resolverlo.
