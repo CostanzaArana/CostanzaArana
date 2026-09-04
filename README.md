@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Programo por diversión.
-# Si tengo un problema, lo mas probable es que haga un programita para resolverlo.
+- Programo por diversión.
+- Si tengo un problema, lo mas probable es que haga un programita para resolverlo.
